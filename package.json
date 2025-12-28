@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.22.0",
+    "@wdio/cucumber-framework": "^8.46.0",
+    "@wdio/globals": "^8.46.0",
+    "@wdio/spec-reporter": "^8.43.0",
+    "allure-commandline": "^2.36.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "webdriverio": "^8.46.0"
+  }
+}
