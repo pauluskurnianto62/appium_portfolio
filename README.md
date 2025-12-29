@@ -1,13 +1,9 @@
-# appium_portfolio
-
 ## Mobile Automation Testing – Appium (Android)
 
 This repository contains a **mobile automation testing portfolio** using **Appium** to test an Android application.  
 The project is designed to demonstrate my understanding of **mobile automation fundamentals**, **test structure**, and **real-world QA practices**.
 
----
-
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Language**: Kotlin
 - **Automation Framework**: Appium
@@ -15,8 +11,6 @@ The project is designed to demonstrate my understanding of **mobile automation f
 - **Test Runner**: JUnit
 - **Platform**: Android
 - **Automation Type**: UI Automation (Mobile)
-
----
 
 ## Test Scenario Covered
 
@@ -28,9 +22,7 @@ The project is designed to demonstrate my understanding of **mobile automation f
 > **Note:**  
 > The scenarios are intentionally kept **simple and focused** to highlight Appium setup, element interaction, and test stability rather than quantity.
 
----
-
-## ⚙️ Prerequisites
+## Prerequisites
 
 Make sure you have the following installed:
 
@@ -41,9 +33,7 @@ Make sure you have the following installed:
 - Node.js
 - Gradle
 
----
-
-## ▶️ How to Run the Test
+## How to Run This
 
 1. Start Android Emulator via Android Studio or connect a physical device
 2. Start Appium Server
